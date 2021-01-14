@@ -1,11 +1,11 @@
 const siteMetadata = {
-  siteUrl: "https://news.buzzing.cc",
+  siteUrl: "https://know.buzzing.cc",
   author: `Buzzing.cc`,
   locale: "zh",
-  title: "谷歌全球新闻头条",
-  shortTitle: "全球头条",
-  description: "用中文浏览谷歌全球新闻(西方媒体)头条",
-  keywords: ["buzzing", "西方媒体", "国外新闻", "世界新闻", "突发新闻"],
+  title: "你应该知道的事",
+  shortTitle: "常识",
+  description: "用中文浏览 Reddit小组 You Should Know 的热门内容",
+  keywords: ["buzzing", "常识", "你应该知道", "You Should Know"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
   menuLinks: [
@@ -13,11 +13,6 @@ const siteMetadata = {
     //   name: "每周精选",
     //   url: "/issues",
     // },
-    {
-      name: "RSS",
-      url: "/rss.xml",
-      prefetch: false,
-    },
   ],
   subscriptions: [
     {
@@ -38,8 +33,8 @@ const siteMetadata = {
   ],
   social: [
     {
-      name: `Google News`,
-      url: `https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB`,
+      name: `You Should Know`,
+      url: `https://www.reddit.com/r/YouShouldKnow`,
       external: true,
     },
     {
@@ -51,38 +46,28 @@ const siteMetadata = {
   localize: [
     {
       locale: "en",
-      title: `Buzzing on World News`,
+      title: `Buzzing on You Should Know`,
       shortTitle: "BuzzNews",
-      description: `See what's buzzing on Google World News Headline in your native language`,
-      keywords: ["buzzing", "Breaking News"],
+      description: `See what's buzzing on You Should Know in your native language`,
+      keywords: ["buzzing", "You Should Know", "Common Sense"],
       menuLinks: [
         // {
         //   name: "Weekly Selection",
         //   url: "/en/issues",
         // },
-        {
-          name: "RSS",
-          url: "/en/rss.xml",
-          prefetch: false,
-        },
       ],
     },
     {
       locale: "zh-Hant",
-      title: "谷歌全球新聞頭條",
-      shortTitle: "全球頭條",
-      description: "用中文瀏覽谷歌全球新聞(西方媒體)頭條",
-      keywords: ["buzzing", "西方媒體", "國外新聞", "世界新聞", "突發新聞"],
+      title: "你應該知道的事",
+      shortTitle: "常識",
+      description: "用中文瀏覽 Reddit小組 You Should Know 的熱門內容",
+      keywords: ["buzzing", "常識", "你應該知道", "You Should Know"],
       menuLinks: [
         // {
         // name: "每週精選",
         // url: "/zh-Hant/issues",
         // },
-        {
-          name: "RSS",
-          url: "/zh-Hant/rss.xml",
-          prefetch: false,
-        },
       ],
     },
   ],
