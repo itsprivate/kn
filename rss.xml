@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[你应该知道的事]]></title><description><![CDATA[用中文浏览 Reddit小组 You Should Know 的热门内容]]></description><link>https://know.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 17 Mar 2021 06:35:54 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[YSK，并不是所有宣传能够去除铅的滤水器都是经过认证的。]]></title><description><![CDATA[为什么选择YSK：如果你去购买第三方的冰箱/水过滤器替换产品。
+Brita他们会告诉你，他们可以去除有害金属，如铅，但不是。
+实际上是经过认证的，除非他们有NSF 53认证。
+
+完整的故事。
+
+我住在新泽西州的纽瓦克市 所以尽管我的家里没有铅管... I live in Newark, NJ, so even though there's no lead pipes in my...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6e81u/ysk_that_not_all_water_filters_that_advertise_the/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6e81u/ysk_that_not_all_water_filters_that_advertise_the/</guid><pubDate>Wed, 17 Mar 2021 01:16:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: If you go to buy 3rd party water filter replacements for your fridge/ brita they&amp;#39;ll tell you they can remove harmful metals like lead but aren&amp;#39;t actually certified to do so unless they have NSF 53 certification.&lt;/p&gt;
+
+&lt;p&gt;Full story: &lt;/p&gt;
+
+&lt;p&gt;I live in Newark, NJ, so even though there&amp;#39;s no lead pipes in my house and my service line was replaced, I still have around 10 ppb of lead in my water. Not enough for an EPA violation but still more than I want to drink on a regular basis. When I went to buy replacement filters for my new fridge, I found &lt;a href=&quot;https://morefilter.com/glacialpure-3pack-eptwfu01-refrigerator-water-filter&quot;&gt;these&lt;/a&gt; which claim to be both &amp;quot;NSF certified&amp;quot; and capable of removing &amp;quot;99% of lead&amp;quot; at 1/3 the price of the OEM filter replacements.&lt;/p&gt;
+
+&lt;p&gt;This seems like a great deal, but here&amp;#39;s the thing; there are actually different levels of NSF certification, and while they call these &amp;quot;certified filters&amp;quot; and say that certified filters remove 99% of lead, they&amp;#39;re actually referring to two different types of certification. These filters and the majority of third party filters out there are NSF 42 certified. They&amp;#39;re even kind enough to link you to the &lt;a href=&quot;http://info.nsf.org/Certified/DWTU/Listings.asp?Company=C0553011&amp;amp;Standard=042&quot;&gt;Certificate on the NSF website&lt;/a&gt;. But if you go to that certificate you can clearly see that all it certifies is &amp;quot;Tested at a flow rate of 0.66 gpm to a capacity of 300 gallons for the reduction of Chlorine.&amp;quot; This is because NSF 42 certification only certifies the removal of odors and taste caused by chlorine. It does NOT certify in any way the removal of lead or any other harmful metal / mineral.&lt;/p&gt;
+
+&lt;p&gt;The ONLY filters that are actually certified to remove lead are NSF 53 certified filters. In my case the &lt;a href=&quot;https://www.frigidaire.com/Filters--Accessories/Filters/Water-Filters/EPTWFU01/&quot;&gt;OEM Filters&lt;/a&gt; are NSF 42, 53 and 401 certified, meaning they remove chlorine, lead, other harmful metals, and some organic contaminants like herbicides. So while you think you might be getting a good deal with 3rd party filters, and they&amp;#39;ll claim they can remove harmful substances often by using deceptive wording, chances are they&amp;#39;re not actually certified to do more than remove chlorine.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK使用这个谷歌搜索技巧，找到任何你想要的数据的开放电子表格。]]></title><description><![CDATA[为什么是YSK。
+
+有一个简单的技巧，你可以用在你的谷歌搜索中找到所有的
+公开的电子表格。你唯一需要做的就是写
+以下语法在你的谷歌搜索。
+
+ * site:docs.google.com/spreadsheets intitle:[任何你想要的东西]
+
+然而，有一...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6fr62/ysk_to_use_this_google_search_trick_to_find_open/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6fr62/ysk_to_use_this_google_search_trick_to_find_open/</guid><pubDate>Wed, 17 Mar 2021 01:16:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK:&lt;/p&gt;
+
+&lt;p&gt;There&amp;#39;s a simple trick you can use on your Google searches to find all the openly available spreadsheets out there. &lt;strong&gt;The only thing you need to do is write the following syntax in your google search:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;site:docs.google.com/spreadsheets intitle:[anything you want]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, there are a bunch of other cases where you can leverage these simple google searches to boost your productivity when trying to find resources online.&lt;/p&gt;
+
+&lt;p&gt;After mastering this for a while, &lt;strong&gt;I compiled a brief guide with several other examples of google searches that can be useful for anyone.&lt;/strong&gt; You can also find a simple explanation of the operators I found most useful for daily Google searches:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.amplemarket.com/mastering-google-searches-for-b2b-prospecting/&quot;&gt;Feel free to take a look&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Happy Google searches everyone! 🤓&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：一个月前发生了全球最大的数据泄露事件，你的数据很可能被窃取了。]]></title><description><![CDATA[为什么是YSK：2021年2月2日，至少有32亿个独特的汇编。
+电子邮件/密码组合被发布在一个流行的黑客论坛上（按照
+CyberNews）。) 被称为COMB(Comilation of Many Breaches)，数据包括
+从过去泄露的凭证和跨网站在互联网上。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6ffkb/ysk_the_worlds_largest_data_breach_happened_a/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6ffkb/ysk_the_worlds_largest_data_breach_happened_a/</guid><pubDate>Wed, 17 Mar 2021 01:16:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: On February 2 2021, a compilation of at least 3.2 billion unique email/password combos were released on a popular hacking forum (as per CyberNews). Known as COMB (Compilation of Many Breaches), the data includes credentials from past leaks and spans websites across the internet in nearly every industry.&lt;/p&gt;
+
+&lt;p&gt;Change your passwords!  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/&quot;&gt;COMB - Biggest Data Breach of All Time Explained | CyberNews&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://tech.co/news/comb-data-leak-biggest-ever&quot;&gt;What You Need to do Following the Biggest Ever Data Leak | Tech.co&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://securityboulevard.com/2021/02/combating-comb-3-2-billion-credentials-leaked-in-breach-compilation/&quot;&gt;Combating COMB: 3.2 billion credentials leaked in breach compilation - Security Boulevard&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：热水器有一个阳极棒，可以防止水箱被腐蚀。如果你每隔几年就更换一次，就可以将热水器的寿命从~10年延长到可能的25年以上。]]></title><description><![CDATA[为什么是YSK：热水器使用阳极棒来吸引和去除沉积物。
+正在加热的水。阳极棒会随着时间的推移而腐蚀和变质，直到...。
+它已经不能再发挥作用，必须更换。这一部分
+牺牲自己来保持坦克的最佳状态....。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6gb8c/ysk_water_heaters_have_an_anode_rod_that_prevents/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m6gb8c/ysk_water_heaters_have_an_anode_rod_that_prevents/</guid><pubDate>Wed, 17 Mar 2021 01:16:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Water heaters use an anode rod to attract and remove sediments from the water being heated. An anode rod will corrode and deteriorate over time until it’s no longer capable of functioning and has to be replaced. This part literally sacrifices itself to keep the tank in optimal condition. That’s why it’s also referred to as a sacrificial anode. Without it, the water tank would start corroding from the inside out which would eventually result in a severe leak at the bottom.&lt;/p&gt;
+
+&lt;p&gt;After the anode rod deteriorates, the tank will begin corroding. This is the reason water heaters typically only last 5-15 years. If you replace the rod every few years (cheap and easy), it will extend the life of water heater by decades.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.waterheaterhub.com/water-heater-anode-rod-replacement/&quot;&gt;Info on how to replace.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK如果你要去纹心跳，不是所有的节奏都是健康的节奏。]]></title><description><![CDATA[为什么是YSK：因为你最不愿意看到的就是你可爱的配套纹身。
+与你的SO（我不建议）只发现从你的医学头脑的
+朋友，你纹身上的节奏是致命的节奏
+
+对于那些不知道的人来说，小boop.... boop... ...的机器，打印出了
+你的心...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5nvik/ysk_if_youre_going_to_get_a_heartbeat_tattoo_not/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5nvik/ysk_if_youre_going_to_get_a_heartbeat_tattoo_not/</guid><pubDate>Tue, 16 Mar 2021 20:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Because the last thing you want is to get your cute matching  tattoo with your SO (which I dont recommend) only to find out from your  medical minded friend that the rhythm on your tattoo is a lethal one&lt;/p&gt;
+
+&lt;p&gt;For  those that don&amp;#39;t know, the little boop.... boop.. machine that prints  out your heart beat is actually printing off a snap shot of your heart  beating to identify if you&amp;#39;re having a heart attack or other cardiac  event&lt;/p&gt;
+
+&lt;p&gt;Since working in this  profession, it is astonishing the number of friends I know who have a  tattoo that is a literal heart attack, atrial fibrillation, and many  other spicy rhythms that can kill you&lt;/p&gt;
+
+&lt;p&gt;For a healthy happy heart tattoo, google &amp;quot;Normal Sinus Rhythm&amp;quot;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK并不是所有带拉链的床垫（或类似的东西）都是要去掉外层并清洗的。]]></title><description><![CDATA[为什么是YSK: 我州的一个家庭正在经历一场噩梦，因为一个
+母亲只是想在使用前清洗孩子的新床垫 "套子"。她
+醒来时，她的孩子们抱怨瘙痒、不舒服和麻烦。
+的呼吸。盖子是不打算拆的（尽管有一个...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5u4c0/ysk_not_all_mattresses_or_anything_similar_with_a/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5u4c0/ysk_not_all_mattresses_or_anything_similar_with_a/</guid><pubDate>Tue, 16 Mar 2021 20:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: A family in my state is experiencing a nightmare come to life because a mother simply wanted to wash her kids new mattress &amp;#39;covers&amp;#39; before use. She awoke to her children complaining of itchiness, discomfort, and trouble breathing. The covers were not meant to be removed (despite having an obvious and easy way to unzip and remove them) and they were filled with fiber glass that littered their entire home costing them hundreds of dollars and a week&amp;#39;s worth of time to clean. Fiber glass can be dangerous to your health, though it is an acceptable material for this application apparently, as it is fire retardant. Make sure you check product reviews, websites and the warning tags if you are in a similar situation and want to remove that mystery zipper!&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.azfamily.com/news/investigations/3_on_your_side/originals/prescott-family-forced-to-toss-belongings-after-finding-fiberglass-in-mattress/article_8360c238-84f0-11eb-b8a7-ab2adec5ed51.html&quot;&gt;https://www.azfamily.com/news/investigations/3_on_your_side/originals/prescott-family-forced-to-toss-belongings-after-finding-fiberglass-in-mattress/article_8360c238-84f0-11eb-b8a7-ab2adec5ed51.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK不少通用产品和品牌产品是一样的。]]></title><description><![CDATA[为什么是YSK。
+
+I have worked in a few factories. 在我工作的一家巧克力工厂里，我们会
+也做甘草和棒棒糖。我们会做一整批的甘草和改变
+包装换成了另一个品牌，价格更便宜，包装尺寸更大。但它
+是完全相同的产品。多个棒棒糖...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5jqdg/ysk_quite_a_few_generic_products_are_the_same_as/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5jqdg/ysk_quite_a_few_generic_products_are_the_same_as/</guid><pubDate>Tue, 16 Mar 2021 20:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK:&lt;/p&gt;
+
+&lt;p&gt;I have worked in a few factories. In a chocolate factory I worked in we would also do liquorice and lollies. We would do a whole batch of liquorice and change the packaging to another brand which was cheaper and bigger package size. But it was the exact same product. Multiple lolly products were done this way too.&lt;/p&gt;
+
+&lt;p&gt;Other factories we would do butter and even cookies. Do a batch of brand name stuff and then change over to generic packaging. The exact same stuff.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：我们的大脑也是为了遗忘而生的，记忆是不可靠的。不要根据记忆来做决定，也不要自责。忘记和原谅是可以的 It's ok to forget and forgive]]></title><description><![CDATA[为什么是YSK：很多人因为这个而搞砸了。他们错过了机会，他们错过了
+经验，他们错过了发现自己或世界的机会。
+
+我知道，这将是很难处理的，但它是美丽的。
+
+我知道这不容易，但你必须意识到这一点。
+
+ * "当你不想...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4y4x6/ysk_our_brain_is_also_made_to_forget_and_memories/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4y4x6/ysk_our_brain_is_also_made_to_forget_and_memories/</guid><pubDate>Mon, 15 Mar 2021 17:12:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK:  Many people fuck it up because of this. They miss chances, they miss experiences, and they miss on discovering themselves or the world. &lt;/p&gt;
+
+&lt;p&gt;It will be hard to deal with this, I know, but there is beauty to it.&lt;/p&gt;
+
+&lt;p&gt;And I know it&amp;#39;s not easy, but you have to be aware of it. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When you don&amp;#39;t want to try that food, because you remember you tried it and you didn&amp;#39;t like it, unless you are allergic, give it a try. &lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When you think you don&amp;#39;t like a certain sport, genre of music or film, or anything really, but you cannot explain it, try it anyway. It might be that you&amp;#39;ve had a bad experience earlier in life, but if you don&amp;#39;t know for sure what it was, try it again. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Unless you remember immediate danger out of the previous experience with a certain thing, try it again, despite what you think you remember.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Don&amp;#39;t judge people based on how you remember them. They change, and so are you. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Apply all this to yourself. Don&amp;#39;t beat yourself on who you were. If you failed once, it doesn&amp;#39;t mean you&amp;#39;ll do it again.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;EDIT: There are concerns about this not being scientifically researched. 
+Here are a few articles mentioning the research done into the forgetting capacity of the brain: 
+&lt;a href=&quot;https://www.sciencedaily.com/releases/2018/09/180907110501.htm&quot;&gt;https://www.sciencedaily.com/releases/2018/09/180907110501.htm&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.quantamagazine.org/to-remember-the-brain-must-actively-forget-20180724/&quot;&gt;https://www.quantamagazine.org/to-remember-the-brain-must-actively-forget-20180724/&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/are-memories-reliable-expert-explains-how-they-change-more-than-we-realise-106461&quot;&gt;https://theconversation.com/are-memories-reliable-expert-explains-how-they-change-more-than-we-realise-106461&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theladders.com/career-advice/to-improve-memory-and-learning-the-brain-forgets-things-on-purpose&quot;&gt;https://www.theladders.com/career-advice/to-improve-memory-and-learning-the-brain-forgets-things-on-purpose&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;And a short clip about how memories are not really reliable: &lt;a href=&quot;https://www.youtube.com/watch?v=jxSHf_BeVUA&quot;&gt;https://www.youtube.com/watch?v=jxSHf_BeVUA&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK "食物恶作剧 "不是恶作剧。他们是重罪的食物篡改罪行，严重的身体伤害和攻击，并通常有最低的刑期。]]></title><description><![CDATA[为什么选择YSK：它很容易以各种方式毁掉你的生活，但很多可能的情况下，你的生活会被毁掉。
+这里的年轻人似乎认为这是一件非常小的事情。
+
+故意把东西强行塞进别人的身体里，通过欺骗或。
+武力，其极其严重。你的意图是无关紧要的。扭曲的幽默下
+的...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5dxyc/ysk_food_pranks_arent_pranks_they_are_felony_food/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m5dxyc/ysk_food_pranks_arent_pranks_they_are_felony_food/</guid><pubDate>Mon, 15 Mar 2021 12:24:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Its very easy to ruin your life in various ways, but a lot of possibly younger people here seem to think its a very minor thing.&lt;/p&gt;
+
+&lt;p&gt;Intentionally forcing things into other peoples bodies, through deception or force, its extremely serious. Your intention is irrelevant. Warped humour under the misguided idea of what a prank is does not exempt you from interfering with another citizens bodily autonomy.&lt;/p&gt;
+
+&lt;p&gt;I saw a post here wherein a youtuber feeding a homeless man toothpaste filled oreos was given 15 months prison and a criminal record for the rest of his life, and people were saying its too harsh.&lt;/p&gt;
+
+&lt;p&gt;Uhh, no, its actually lenient for that kind of offence. Food tampering is very serious.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK："救救我！"的国际标志。]]></title><description><![CDATA[https://en.wikipedia.org/wiki/Signal_for_Help
+
+为什么选择YSK：万一你需要帮助，或者遇到有人恳求帮助的情况下]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m33ckj/ysk_the_international_sign_for_help_me/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m33ckj/ysk_the_international_sign_for_help_me/</guid><pubDate>Mon, 15 Mar 2021 10:46:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Signal_for_Help&quot;&gt;https://en.wikipedia.org/wiki/Signal_for_Help&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Why YSK: in case you ever need help, or come across someone pleading for help&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK认为，生气时能够不激进是一种宝贵的技能。]]></title><description><![CDATA[为什么YSK：在争论中的攻击性是非常危险的，往往会导致很多。
+比冲突的原始原因造成更多的损害和问题。威胁到
+伤人损物，更有甚者，伤人损物。
+事情不会得到任何人的任何地方。除了直接伤害和...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4t1rm/ysk_that_being_able_not_to_get_aggressive_when/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4t1rm/ysk_that_being_able_not_to_get_aggressive_when/</guid><pubDate>Mon, 15 Mar 2021 03:00:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Aggression during arguments is very dangerous and often leads to much more damage and problems than the original cause of the conflict. Threatening to hurt people or damage things, or worse, to actually hurt people and damage things will get no one anywhere. Aside from direct injuries and property damage and the costs these cause, it&amp;#39;ll permanently weaken and destroy trust and make unavoidable encounters with the people affected unbearable and as unproductive as can be.&lt;/p&gt;
+
+&lt;p&gt;Keep this in mind especially when dealing with family members, colleagues, neighbours and roommates and other types of people you cannot simply cut out of your life. If you have anger issues, consider getting therapy and think twice before going for a power position job.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re the victim of abuse and aggression, well, I can only imagine how terrible it must feel and can just hope you can find a way out in time.
+You don&amp;#39;t need to constantly be fearing for your life. Any situation that makes you suffer, no matter how bad/&amp;quot;mild&amp;quot; it is compared to other peoples issues, is justification enough for you to (at least consider/try to) find a way to improve it. Sure, it is often wise to try to adapt to uncomfortable circumstances. But there are limits to what is acceptable and what is not, and I certainly cannot define that limit for anyone else than myself. After all, it&amp;#39;s Your own mental health and ignoring it because of other people&amp;#39;s expectations is most unhealthy for You!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK那些'蜘蛛网'暴露作为雪融化实际上是雪的霉菌和能引起季节性过敏症状。]]></title><description><![CDATA[为什么是YSK：雪霉经常被忽视或与昆虫活动混淆。它可以
+引起类似花粉症的症状，以及对草的损害。像任何
+过敏，知识是动力，了解什么是导致你的反应。
+在任何东西开花之前，可以把你的头脑在... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m39zlf/ysk_those_spiderwebs_exposed_as_the_snow_melts/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m39zlf/ysk_those_spiderwebs_exposed_as_the_snow_melts/</guid><pubDate>Sun, 14 Mar 2021 20:25:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Snow mold is often overlooked or confused with insect activity. It can cause hay fever like symptoms as well as damage to the grass. Like with any allergy, knowledge is powered and understanding what is is cause you to react before anything is in bloom can put your mind at ease. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://globalnews.ca/news/5101724/sneezing-into-spring-how-snow-mould-can-affect-your-health/amp/&quot;&gt;https://globalnews.ca/news/5101724/sneezing-into-spring-how-snow-mould-can-affect-your-health/amp/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，你可以带着你生活中的人、朋友、家人(尤其是老人)进行一次虚拟公路旅行! 参观那些他们多年未曾去过的地方! 与他们分享过去的经历，并通过谷歌地图街景打开大门!]]></title><description><![CDATA[这就是为什么YSK：这个伟大的想法对于任何有老年人的人来说都是特别美妙的。
+或老人的生活。
+
+带他们去他们所有的老地方旅游！使用谷歌地图街景，您可以
+几乎可以带他们去世界上任何一个他们曾经生活过的地方，去到
+学校，最喜欢的剧院，... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m47995/ysk_that_you_can_take_people_and_friends_and/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m47995/ysk_that_you_can_take_people_and_friends_and/</guid><pubDate>Sun, 14 Mar 2021 18:50:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Here’s why YSK: This great idea is especially wonderful for anyone with an older or elderly person in their life:&lt;/p&gt;
+
+&lt;p&gt;Take them on a tour of all their old haunts! Using &lt;em&gt;Google Maps Street View,&lt;/em&gt; you can take them almost anywhere in the world where they used to live, go to school, favourite theatres, places they played, places they went with their parents, the homes of old friends! Anything and Everything!&lt;/p&gt;
+
+&lt;p&gt;I have watched them as they quietly remembered places and people. It reawakens memories, both happy and melancholy, and encourages marvelous and fascinating conversation for them and for you!&lt;/p&gt;
+
+&lt;p&gt;The larger the screen, the better. I have “walked” the streets and sidewalks with them as we traveled back in time. What an experience!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;\&lt;/em&gt; I was able to take my great-uncle, right to the door of his childhood home in England - a country he hadn&amp;#39;t visited since the early 70&amp;#39;s!&lt;/strong&gt;*&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[遭受虐待的家庭中的YSK儿童根本不知道他们正在遭受虐待。如果你和一个对生活中的照顾者表示强烈厌恶（甚至是憎恨）的孩子交流，不要自以为是地把它当作 "正常的不安"，因为它很可能不是。虐待儿童的现象随处可见。]]></title><description><![CDATA[为什么YSK：受虐的孩子除了小说之外，没有什么可以比较的生活（电视。
+书），他们真的无法理解父母/家长的方式。
+人物对待他们是不可接受的。这对他们来说是正常的，即使觉得不妥也是正常的
+而他们却无法将自己的手指放在上面。通常要等到...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4o80i/ysk_children_of_abusive_households_literally_do/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4o80i/ysk_children_of_abusive_households_literally_do/</guid><pubDate>Sun, 14 Mar 2021 09:53:32 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Abused kids have nothing to compare the lives to besides fiction (tv, books) and they literally cannot comprehend that the way parents/patental figures treat them is unacceptable. It is normal to them, even if it feels wrong &amp;amp; they can&amp;#39;t put their finger on it. It is usually not until adulthood or intervention (whichever comes first) that they gain enough life experience and/or enough brain development to understand what happened to them. And even then, it takes some people half their lives. &lt;/p&gt;
+
+&lt;p&gt;Treating kids as if they are just bratty, angsty, or &amp;quot;don&amp;#39;t understand yet&amp;quot; causes immense additional damage. Never, ever tell an upset adolescent &amp;quot;your ______ loves you&amp;quot; because there is no possible way you could know that. They have the right to determine that on their own, and you are messing with their ability/willingness to trust their instincts. The number of parents out there who do not love their kids is astounding, and even if they do and still abuse them, you are solidifying in that human being that &lt;em&gt;this is what love feels like.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Child abuse is a RAMPANT unseen problem. It is 100x more common than the average good, non-abusive person thinks.&lt;/p&gt;
+
+&lt;p&gt;ALWAYS take children&amp;#39;s feelings and beliefs seriously, especially about parents &amp;amp; relatives. In some cases, they may just be bratty kids, and if you allow them to have these feelings &amp;amp; thoughts without criticising or downplaying them, &lt;strong&gt;there is no lasting harm done.&lt;/strong&gt; If they are actually experiencing abuse, not taking them seriously only gaslights them further and hurts them in a huge variety of ways.&lt;/p&gt;
+
+&lt;p&gt;Have to mention this: While often the parent they hate or fear is the abuser, sometimes the &amp;quot;good parent&amp;quot; is the covert abuser. They emotionally abuse the kid, including manipulating them to &amp;quot;hate&amp;quot; the other parent. This can and does happen all the time, so tread lightly. Confirming this belief that was manipulated into them by the actual abuser is tragic and destructive. Again, children have a right to formulate their own opinions and beliefs based on how people treat them, including their parents. Manipulated alienation is relatively easily exposed by a trained professional, if the opportunity arises, though it can&amp;#39;t always be solved. This scenario is a true tragedy :(&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：措辞和问题本身一样重要。]]></title><description><![CDATA[为什么是YSK：人们几乎在每一个话题上都有越来越多的分歧和
+很容易产生强烈的情绪。为了避免这种情况，创造一个更健康的
+公共话语，要注意如何提出问题。最好的方法是
+产生一个有效的对抗是要有同情心... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3td74/ysk_the_wording_is_just_as_important_as_the/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3td74/ysk_the_wording_is_just_as_important_as_the/</guid><pubDate>Sun, 14 Mar 2021 05:39:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: people are getting more and more divided on almost every topic and strong emotions can arise very easily. To avoid that and create a much healthier public discourse, pay close attention on how you pose the question. The best way to generate a productive confrontation is to be empathetic in your wording, to try and understand where the other person is coming from, no matter how wrong you think they are. For example, a usually very hot subject is abortion: if you are pro-choice discussing with pro-life people, wording the question as &amp;quot;why are you against freedom of choice for women?&amp;quot; will surely put off the counterparts, making them feel like you&amp;#39;re not there to listen but to prove a point. They will start to do the same with you, making the discussion too polarized and partisan to be productive. Try maybe to rephrase the question as &amp;quot;why do you think life is inherently sacred?&amp;quot; or &amp;quot;do you think there are situations in which your judgement would change? If so, why?&amp;quot;. The same is true vice-versa: instead of asking &amp;quot;why do you support killing babies in the womb?&amp;quot; try with &amp;quot;what are the cases that make abortion right in your opinion?&amp;quot;. Rephrasing the question in this way shifts the moral realm of the discussion from yours to theirs, making them open up and be more inclined to pay attention to your reasons.&lt;/p&gt;
+
+&lt;p&gt;Try to listen and understand rather than debate and declare. &lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK说，抚摸你的狗（乱摸它们的爪子，看它们的耳朵等）可以救它们的命。]]></title><description><![CDATA[为什么是YSK：有些狗主人可以一边看狗，一边进行
+健康危机，而不知道这是一个健康危机，特别是与事情，如
+狗的胀气。捣乱狗狗的耳朵、爪子、尾巴、肚子等也会。
+帮助你梳理他们，因为他们会习惯你... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4hd07/ysk_that_touching_your_dog_messing_with_their/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4hd07/ysk_that_touching_your_dog_messing_with_their/</guid><pubDate>Sun, 14 Mar 2021 05:24:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Some dog owners can look at their dog while they are in the middle of a health crisis and not KNOW it is a health crisis, especially with things like dog bloat. Messing with your dog&amp;#39;s ears, paws, tail, stomach, etc. will also help you with grooming them, as they will be used to you touching them. This also will help you notice when something is wrong. My mom spent hours with her GSD puppy just messing with him, and she knew how he acted normally vs. how he acts when he is sick/upset. This saved his life when he had dog bloat, and he is happy and healthy two years later. Get to know your dogs, and it not only will make life so much easier when grooming them, but it might also save your furry friend&amp;#39;s life!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK:当买到便宜的假电子配件时，要注意最糟糕的事情不是它不能正常工作，而是它可能会损坏你的手机，你把它连接起来。我买了5美元的USB C耳机与800美元的手机一起使用，他们造成了机械损坏的端口。]]></title><description><![CDATA[为什么选择YSK：它可以节省成本]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4akth/yskwhen_buying_cheap_faked_electronic_accessories/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m4akth/yskwhen_buying_cheap_faked_electronic_accessories/</guid><pubDate>Sun, 14 Mar 2021 05:24:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK : it will save money&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，你需要在使用它之前定义一个缩写。]]></title><description><![CDATA[为什么是YSK：一个缩写可以代表多种事物，这取决于你的框架。
+参考。
+
+比如CASA代表的是加拿大学生社团联盟，The。
+加拿大农业安全协会、加拿大自动喷水灭火器协会
+协会，以及其他一系列的事情。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m40zd4/ysk_that_you_need_to_define_an_acronym_before_you/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m40zd4/ysk_that_you_need_to_define_an_acronym_before_you/</guid><pubDate>Sat, 13 Mar 2021 19:00:46 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: An acronym can stand for multiple things, depending on your frame of reference.  &lt;/p&gt;
+
+&lt;p&gt;CASA for example stands for the Canadian Alliance of Student Associations,  The Canadian Agricultural Safety Association, the Canadian Automatic Sprinkler Association, and a whole host of other things.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 兽医是所有职业中自杀率最高的职业之一。]]></title><description><![CDATA[为什么要选择YSK：如果你正在考虑成为一名兽医，那么对你来说，重要的是
+你要知道你在做什么。在我们的生活中存在着独特的压力
+的职业，让人在感情上非常难受。
+
+如果你是宠物的主人，你需要明白，兽医是有
+因为他们想...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3r7yh/ysk_that_veterinarians_have_one_of_the_highest/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3r7yh/ysk_that_veterinarians_have_one_of_the_highest/</guid><pubDate>Sat, 13 Mar 2021 07:34:14 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK:  If you are contemplating becoming a veterinarian, it is important for you to know what you are getting into.  There are unique stressors in our profession that make it very difficult emotionally.  &lt;/p&gt;
+
+&lt;p&gt;If you are a pet owner, you need to understand that veterinarians are there because they want to help your pet live a better life and snide comments about cost, emotional blackmail and threats are not ok, and can and do lead to idealistic professionals struggling with mental welfare and committing suicide at a shockingly high rate.   &lt;/p&gt;
+
+&lt;p&gt;Here is a video in support of mental health networks for veterinarians: &lt;a href=&quot;https://youtu.be/tpx68jmnr4w&quot;&gt;https://youtu.be/tpx68jmnr4w&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you comment, please watch the video and then consider what impact your comments will have on others.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK牙膏和无糖糖果可以杀死你的狗。]]></title><description><![CDATA[为什么YSK：木糖醇对狗狗有毒，即使是少量的木糖醇。
+
+https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/popular-xylitol-products-can-poison-your-dog]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m32xqw/ysk_toothpaste_and_sugarfree_candy_can_kill_your/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m32xqw/ysk_toothpaste_and_sugarfree_candy_can_kill_your/</guid><pubDate>Fri, 12 Mar 2021 19:37:31 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Xylitol is poisonous to dogs, even in small amounts. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/popular-xylitol-products-can-poison-your-dog&quot;&gt;https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/popular-xylitol-products-can-poison-your-dog&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK... ...为 "科学 "而捐献身体的业务包括诸如军方炸毁你的身体进行弹道测试。这也是一种营利性业务，尸体或身体部位由经纪人出售，他们从捐赠中赚钱。]]></title><description><![CDATA[为什么YSK：你的捐款应该更有依据，如果你考虑的是
+将您或您亲人的身体捐献给科学，您应该意识到，您应该
+不能真正决定它的实际去向。
+
+医院会让外面的经纪人把尸体卖掉，赚取利润。有
+很少监管...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3a768/ysk_the_business_of_body_donation_for_science_can/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m3a768/ysk_the_business_of_body_donation_for_science_can/</guid><pubDate>Fri, 12 Mar 2021 13:42:58 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Your donations should be better informed. if you&amp;#39;re considering donating yours or your loved ones&amp;#39; body to science, you should be aware that you can&amp;#39;t really dictate where it actually goes. &lt;/p&gt;
+
+&lt;p&gt;The hospital will let an outside broker sell the body for a profit. There is very little regulation in this industry. This has also led to bodies just rotting away in poorly cooled buildings. &lt;/p&gt;
+
+&lt;p&gt;Overall, it&amp;#39;s a business that deeply needs regulation and changes. Be informed before you donate to &amp;quot;science&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s an investigative report:
+&lt;a href=&quot;https://time.com/5636486/fbi-body-donation-arizona/&quot;&gt;https://time.com/5636486/fbi-body-donation-arizona/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：不是每个人都适合上大学，这没关系! 如果你最终还是要上大学，一定要研究哪些会是最好的工作，工资也高。]]></title><description><![CDATA[为什么YSK "做你喜欢的事，永远不会觉得是工作 "可能适合一些人。
+但他们是少数人。实事求是地看待自己的目标是好的。研究
+您所在地区您感兴趣的工作，并看看他们的报酬。
+上大学前。
+
+有一个清晰的思路，你不想让...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m36wc0/ysk_not_everyone_is_fit_for_college_and_thats/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m36wc0/ysk_not_everyone_is_fit_for_college_and_thats/</guid><pubDate>Fri, 12 Mar 2021 09:55:46 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK &amp;quot;Do what you love and it&amp;#39;ll never feel like work&amp;quot; Might fit some people, but they are a minority. It&amp;#39;s good to be realistic about your goal. Research jobs in your area that you&amp;#39;re interested in and see what they are paid for before going to college.&lt;/p&gt;
+
+&lt;p&gt;Have a clear idea, you don&amp;#39;t want to get a bad degree that ends up doing nothing for you in the work field and end up struggling financially.&lt;/p&gt;
+
+&lt;p&gt;Also: There&amp;#39;s nothing wrong with Community College. Community Colleges can often have similar or the same degrees as a regular college and often be cheaper. Make sure to look at both for options.&lt;/p&gt;
+
+&lt;p&gt;Be realistic at what you can pay for college (If you can get financial aid or not), and what would help you out in the work field.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，在很多家庭中，对你的家人大喊大叫是不正常的，也是虐待的起点。]]></title><description><![CDATA[编辑：如果你想推荐一本书，我推荐《如何应对》。
+阿尔伯特-伯恩斯坦的《情绪爆炸的人》。我在19岁的时候读过这本书
+试图理解为什么我爸会对我们大发雷霆，这让我意识到我
+也是走向了那条向人爆炸的道路。我看了一堆...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2xzxh/ysk_that_screaming_at_people_in_your_family_is/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2xzxh/ysk_that_screaming_at_people_in_your_family_is/</guid><pubDate>Fri, 12 Mar 2021 09:45:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Edit: If you want a book recommendation I recommend “How to Deal with Emotionally Explosive People” by Albert Bernstein. I read this as a 19 year old trying to understand why my dad exploded at us so much and it made me realize I was also headed down that path of exploding at people. I read a bunch of books to help me but this one really sticks out.&lt;/p&gt;
+
+&lt;p&gt;Why YSK: Many people who grow up with a parent who screams at them when angry ends up doing it to friends or members of their own family when they grow up. They don&amp;#39;t know that, for a lot of people who grew up with healthier family dynamics, it&amp;#39;s not normal to be screamed at and can feel very scary. Screaming at someone angrily isn&amp;#39;t necessarily abuse, but habitually screaming at someone to scare or upset them or to &amp;#39;get your way&amp;#39;, especially when also insulting them or cursing at them, is considered abusive. You&amp;#39;d be surprised how many people do not know this and think screaming is normal!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK - 成人不应该讨厌或粗鲁地对待孩子们]]></title><description><![CDATA[为什么选择YSK：很高兴能让大家认识到这个话题，并希望能帮助引导大家。
+到更积极的关系。
+
+我知道孩子们可能会非常沮丧地处理，甚至是烦人的。
+的时候。然而我看到很多的年轻人或者是老年人，他们有一个超
+对孩子们的强烈厌恶，因为...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0c6m3/ysk_adults_shouldnt_hate_or_be_rude_to_kids/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0c6m3/ysk_adults_shouldnt_hate_or_be_rude_to_kids/</guid><pubDate>Fri, 12 Mar 2021 03:56:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: It’s good to bring awareness on this topic and can hopefully help lead to more positive relationships. &lt;/p&gt;
+
+&lt;p&gt;I understand kids can be very frustrating to deal with or even annoying at times. However I see a lot of young adults or older people who have a super strong disliking toward kids for simply being kids. Kids just kind of do stuff or mimic what they see. They are very underdeveloped compared to adults and don’t know any better most of the time. &lt;/p&gt;
+
+&lt;p&gt;For example a kid and his mom were filming a cooking video together and he almost put his hand in a blender. His mom stopped him before anything bad could happen. However a lot of the comments were adults angry over how he almost hurt himself while talking about their disliking for kids in general. Some even wished he put his hand in the blender to “learn his lesson”. &lt;/p&gt;
+
+&lt;p&gt;Again, I totally get that kids can be tough to handle. But to hope and wish a kid would severely hurt himself because he was curious or just not knowing any better is very weird and crazy to me. &lt;/p&gt;
+
+&lt;p&gt;Basically just try to be nice to everyone plz. Kids deserve to not be judged and should be able to live up some of their best moments in life without adults being rude to them.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 当你得到的东西有一个洞，动物可能会被困在里面，一定要在扔掉之前把它剪掉。]]></title><description><![CDATA[为什么YSK：这样动物就不会被抓进去了。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2mw66/ysk_when_you_get_something_that_has_a_hole_that/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2mw66/ysk_when_you_get_something_that_has_a_hole_that/</guid><pubDate>Thu, 11 Mar 2021 20:45:15 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: That way the animal won&amp;#39;t get caught in it.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：蜂蜜是不会过期的。]]></title><description><![CDATA[为什么YSK：为了不浪费蜂蜜! 蜂蜜是不会变质的。事实上，它是
+被公认为是唯一不会变质的食物。然而，它将结晶
+(变得厚重而浑浊)随着时间的推移。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2i8f3/ysk_honey_doesnt_expire/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2i8f3/ysk_honey_doesnt_expire/</guid><pubDate>Thu, 11 Mar 2021 16:27:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: so that you don&amp;#39;t waste honey! Honey does not go bad. In fact, it&amp;#39;s recognized as the only food that doesn&amp;#39;t spoil. It will, however, crystallize (becoming thick and cloudy) over time.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK说诈骗电话是冒充德州警察的 YSK that scam callers are posing as Texas Police Officers.]]></title><description><![CDATA[我年迈的母亲前几天接到一个电话，是一个自称是
+德州警察。他声称，她的社会安全号码已经被
+在该州多起诈骗案中被确认，并要求提供她的社会和。
+其他信息确认。
+
+我们打电话给社保局...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2apya/ysk_that_scam_callers_are_posing_as_texas_police/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2apya/ysk_that_scam_callers_are_posing_as_texas_police/</guid><pubDate>Thu, 11 Mar 2021 11:51:59 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My elderly mother received a call the other day from a man claiming to be a Texas State Police Officer. He claimed that her social security number had been identified in a number of fraud cases in the state and asked for her social and other information to confirm.&lt;/p&gt;
+
+&lt;p&gt;We called the social security office who referred us to the Federal Trade Commission. They said that this is a scam that&amp;#39;s been going on for a few months.&lt;/p&gt;
+
+&lt;p&gt;Why YSK: Most people have elderly relatives, and their age demographic seems to be who is targeted. It will be helpful to talk to elderly relatives or acquaintances and inform them to be on the lookout.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，如果你在剥离宜家螺丝时遇到问题，可能是因为你用错了螺丝刀。]]></title><description><![CDATA[注意：这个YSK主要是给美国人用的 为什么要用YSK：通过了解正确的工具来使用。
+为最知名的家具连锁店之一，你可以避免浪费时间不必要的。
+更换零件或维修。
+
+因此，在差点毁掉一把庭院椅之后，我做了一些研究，发现
+他们的很多螺丝...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2h6q2/ysk_if_youre_having_issues_with_stripping_ikea/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m2h6q2/ysk_if_youre_having_issues_with_stripping_ikea/</guid><pubDate>Thu, 11 Mar 2021 09:54:14 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Note: this YSK is mostly for Americans
+&lt;strong&gt;Why YSK:&lt;/strong&gt; By knowing the right tool to use for one of the best known furniture chains, you can avoid wasting time needless replacement parts or repairs.&lt;/p&gt;
+
+&lt;p&gt;So after nearly ruining a patio chair, I did some research and discovered that for a lot of their screws they don&amp;#39;t use Philips/ cross head screws, but Posidriv. You can see the difference &lt;a href=&quot;https://s3.amazonaws.com/finehomebuilding.s3.tauntoncloud.com/app/uploads/2016/04/09113923/021254038-phillips_xlg-700x603.jpg&quot;&gt;here&lt;/a&gt;. The best way to tell is to look for the four small tick marks between the parts of the cross. Posidriv screws are fairly common in Europe, but almost nonexistent in commercial products in the US, with the exception of Ikea. If you find yourself frequently assembling Ikea products, pick up some Posidriv screwdrivers and see how much easier they get!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：在购买西装时，一般都希望能得到为你量身定做的西装，这样才会更合身。计划购买西服的时间至少要提前一周，以便留出裁剪的时间。]]></title><description><![CDATA[为什么选择YSK：买西装参加婚礼或面试等活动是很常见的，但如果是在婚礼或面试的时候买西装，那就会有很大的影响。
+除非你花一大笔钱买这套衣服，否则不太可能适合你。
+很好。量身定制也不像你想象的那样昂贵，它真的是
+增加了一个额外的水平，你的介绍。在这里（纽约），我可以得到... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m1xr88/ysk_when_buying_a_suit_its_generally_expected/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m1xr88/ysk_when_buying_a_suit_its_generally_expected/</guid><pubDate>Wed, 10 Mar 2021 21:22:46 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: it’s common to buy suits for an event like weddings or interviews, but unless you’re dropping a boatload of money on the suit it is unlikely to fit you very well. Tailoring also isn’t expensive like you might think and it really adds an extra level to your presentation. Here (nyc) I can get a suit tailored for ~$50 and it’ll take 3-5 days to complete.&lt;/p&gt;
+
+&lt;p&gt;Edit: some people are mentioning that it will likely cost more than $50 to tailor which is true. Number of adjustments being done to the suit, number of tailors in your city/town, and quality of tailor will all affect the cost. I’ve been lucky to only need 1-3 adjustments done on average for my suits and I probably should have mentioned that this is an anecdotal number. Your mileage may vary.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，如果你在2020年的收入低于72000元，你就有资格在网上免费报税。]]></title><description><![CDATA[为什么YSK：报税公司宣称可以免费报税，却又强行报税。
+如果您的财务状况有任何复杂的情况，您可以升级到付费产品。
+你是100%有权免费报税的，只是没有得到广泛的宣传。
+
+TurboTax声称可以免费报税，但这...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/ly14r0/ysk_that_if_you_made_less_than_72000_in_2020/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/ly14r0/ysk_that_if_you_made_less_than_72000_in_2020/</guid><pubDate>Wed, 10 Mar 2021 20:59:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: tax filing companies claim you can file taxes for free but then force you to upgrade to a paid product if there is any complexity to your finances. You are 100% entitled to filing for free, but it’s just not widely communicated. &lt;/p&gt;
+
+&lt;p&gt;TurboTax claims it can file your taxes for free but that’s only if your taxes are super simple. Otherwise they made you upgrade to a paid service. &lt;/p&gt;
+
+&lt;p&gt;If you made $72000 or less in 2020, file online through one of the providers listed here instead: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free&quot;&gt;https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，你应该更换你的闸板螺丝。]]></title><description><![CDATA[为什么YSK说大部分的锁头板的螺丝都是假的？
+小得离谱。我们租的是房子，所以很难有理由投资买房。
+安全系统或新锁。然而，用于锁芯敲击板的螺丝。
+只有约1/2 "长。我把它们都换成了更粗的4"... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m1gwb6/ysk_that_you_should_replace_your_deadbolt_strike/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m1gwb6/ysk_that_you_should_replace_your_deadbolt_strike/</guid><pubDate>Wed, 10 Mar 2021 18:54:12 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK that the screws that come with most deadbolt strike plates are ridiculously small. We rent a house, so it’s hard to justify investing in a home security system or new locks. However, the screws for the deadbolt strike plates were only about 1/2” long. I replaced them all with much thicker 4” screws for less than $5 total, and it only took about 5 mins to do two doors. That will make it much more difficult to kick through the doors when they’re locked.&lt;/p&gt;
+
+&lt;p&gt;Check your door screws. It’s very easy and cheap to replace them if they’re too short and it will make a huge difference in home security.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：超市里便宜的商品总是位于底层的货架上]]></title><description><![CDATA[为什么是YSK：每当人们在购物的时候，都会不注意商品。
+位于机架的底部；他们只需看一下它们的正前方就可以了。
+搜索他们需要的产品。然而，让我们说，你正在寻找玉米。
+位于你面前的玉米（如果你直视）......]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0nfzd/ysk_cheaper_items_in_supermarkets_are_always/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0nfzd/ysk_cheaper_items_in_supermarkets_are_always/</guid><pubDate>Wed, 10 Mar 2021 02:25:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Whenever people are shopping, they don&amp;#39;t pay attention to the items located on the bottom of the racks; they just look directly in front of them to search for products they need. However, lets say that you are looking for corn. The corn that is located in front of you (if you look straight) will usually cost about 25% more than the corn located on the bottom of the shelf.&lt;/p&gt;
+
+&lt;p&gt;This is a tactic that companies use to sell more of their products. I have learnt this from one of my friends who is currently working in a supermarket.&lt;/p&gt;
+
+&lt;p&gt;You should try this out yourselves! Go to a supermarket and check the prices of homogeneous products, one being located directly in front of you and the other being located on the bottom. It will astonish you how much money you can save by looking down in supermarkets!!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK认为，如果你使用的是经济型或中端三星手机，那么One UI 3.0+Android 11的更新就可以为你所用。]]></title><description><![CDATA[为什么是YSK：像这次的重大更新都会有大量的新功能、调整。
+和安全更新。进入设置并按 "最后更新"。即使
+那里没有通知，按一下就会有一长串更新的细节。
+会出现。更新会自动下载，所以你...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m169lr/ysk_that_if_youre_using_a_budget_or_midrange/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m169lr/ysk_that_if_youre_using_a_budget_or_midrange/</guid><pubDate>Tue, 09 Mar 2021 23:51:20 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Major updates like this one come with a slew of new features, tweaks, and security updates. Head into settings and press &amp;quot;Last Update&amp;quot;. Even if there&amp;#39;s no notificaiton there, press it and a long list of details of the update will be present. The update will download automatically, so you can install it whenever.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This also applies to flagship Samsung phones from the S10 up,&lt;/strong&gt; but those usually get the update earlier than the budget phones.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 你的福特Transit Van, Uhaul/Penske/Budget van Rental车门上的口袋不是用来放手机的。]]></title><description><![CDATA[https://www.youtube.com/watch?v=X4fSfNeF-II
+
+我的朋友今天就遇到了这种情况! 福特的车门上有个口袋。
+看起来像是为手机而生的面包车（除此之外，它并不存在）。
+似乎有任何目的）。) 是的，有一个小贴纸，看起来像一个。
+禁止吸烟...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m19jrg/ysk_that_pocket_in_the_door_of_your_ford_transit/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m19jrg/ysk_that_pocket_in_the_door_of_your_ford_transit/</guid><pubDate>Tue, 09 Mar 2021 23:51:20 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=X4fSfNeF-II&quot;&gt;https://www.youtube.com/watch?v=X4fSfNeF-II&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My friend had this happen today!  There is a pocket in in the door of the Ford Transit van that looks like it is MADE for cell phones (it otherwise does not appear to have any purpose).  Yes there was a little sticker that looked like a no smoking sticker... My friend thought that was what it was.  I saw it and thought it was pointing out the cell phone pocket, but since I wasn&amp;#39;t driving, I wanted to use my cell phone.  My friend put the phone in the pocket and closed the door... This video (not ours) demonstrates what happened.&lt;/p&gt;
+
+&lt;p&gt;Why YSK:  If you rent a Transit van to move items, pay attention to the pockets and don&amp;#39;t put your cell phone in the pocket in the door that looks like it is for phones or it will get broken.&lt;/p&gt;
+
+&lt;p&gt;edit to add TLDR (written by &lt;a href=&quot;https://www.reddit.com/user/sleauxbreaux42&quot;&gt;sleauxbreaux42&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;THE POCKET IS PLACED IN SUCH A WAY THAT THE DASHBOARD WILL CRUSH YOUR CELL PHONE WHEN THE DRIVER DOOR IS CLOSED.&lt;/p&gt;
+
+&lt;p&gt;For those that can&amp;#39;t or don&amp;#39;t want to click the link.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: ASPCA有可打印的卡片，你可以放在钱包里，这样一旦发生紧急情况，你无法回家，不管是谁帮助你，都会知道提醒别人去看看你的宠物。]]></title><description><![CDATA[为什么是YSK：特别是当你一个人住的时候，这个很重要。如果你是在一个
+意外，无法沟通，或者更糟的是，可能要等一段时间了
+在任何人考虑检查你的房子之前。你的动物将需要
+照顾和喂养。
+
+https://www.aspca.org/pet-care/pet...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0jzt2/ysk_the_aspca_has_printable_cards_you_can_keep_in/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m0jzt2/ysk_the_aspca_has_printable_cards_you_can_keep_in/</guid><pubDate>Tue, 09 Mar 2021 03:25:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Especially if you live alone, this is important. If you&amp;#39;re in an accident and unable to communicate, or god-forbid worse, it might be a while before anyone considers checking on your home. Your animals will need to be taken care of and fed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.aspca.org/pet-care/pet-planning/getting-started&quot;&gt;https://www.aspca.org/pet-care/pet-planning/getting-started&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：过去做了错事或说了坏话，不代表现在不能反抗。]]></title><description><![CDATA[为什么YSK：不会让你成为伪君子。人们会成长，变得比他们更好
+习惯于。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m07p59/ysk_just_because_you_did_something_wrong_or_said/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m07p59/ysk_just_because_you_did_something_wrong_or_said/</guid><pubDate>Mon, 08 Mar 2021 12:58:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Doesn&amp;#39;t make you a hypocrite. People grow and become better than they used to.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：你的产品评论应该基于产品，而不是其他任何东西。]]></title><description><![CDATA[为什么选择YSK：撰写有用的产品评论可以帮助制造商、卖家和消费者。
+消费者。除非你能对购买过程中的每一个步骤进行评价。
+单独（销售建议、网站、价格和购买、产品、运输）。
+等）你应该根据产品本身的优点来进行评论。
+
+我看...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m04kpr/ysk_you_should_base_your_product_review_on_the/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/m04kpr/ysk_you_should_base_your_product_review_on_the/</guid><pubDate>Mon, 08 Mar 2021 07:54:08 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Writing helpful product reviews helps out manufacturers, sellers, and consumers. Unless you are able to rate each step in the purchasing process individually (sales advice, website, pricing and purchase, product, shipping etc.) you should base your review on the product&amp;#39;s own merit.&lt;/p&gt;
+
+&lt;p&gt;I see so many reviews on Amazon etc. that rate products 1-star due to something that is beyond the manufacturer&amp;#39;s control, such as damage during shipping, or poor customer service by the seller.&lt;/p&gt;
+
+&lt;p&gt;This is very unhelpful to anyone looking for a review on a potential purchase, as these have no bearing on how the product will perform for their use case. If I want to know if a set of jack stands will provide enough stability and ground clearance for my truck, reading your poor review because your set was delivered with a hole in the box does not provide any useful information, and hurts the seller and manufacturer for no valid reason.&lt;/p&gt;
+
+&lt;p&gt;There can be exceptions to this, i.e. if the product was delivered incomplete and you contacted the manufacturer to provide the missing parts and were met with nothing but passive aggression and disinterest, I would factor this into a review as I consider manufacturer support and warranty as part of the product. Others may see this differently, and I would welcome the discussion. There are other exceptions, but I&amp;#39;m typing this on my phone so I don&amp;#39;t want to list them here. &lt;/p&gt;
+
+&lt;p&gt;TL;DR - don&amp;#39;t base your Amazon ratings and reviews on anything other than products and services within the manufacturers control.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EDIT&lt;/strong&gt;: Since I&amp;#39;m at a computer now and there is some confusion, let me clear up some things:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; I&amp;#39;m primarily basing this on Amazon and other storefronts that carry products from a wide range of manufacturers, as opposed to the manufacturer site directly. For instance, if you go directly to Apple&amp;#39;s website and order an iPhone, Apple should take ownership of the transactional process, customer service, warranty, product quality, shipping etc. If there are train derailments or blizzards that affect your delivery date, I would not hold Apple accountable for that.&lt;/li&gt;
+&lt;li&gt; If during its normal course of use, a product fails in some way, I would hold the manufacturer accountable and factor that into my review. However, depending on how the manufacturer handles the situation (replacement, refund, etc,) I would make sure to update the review.&lt;/li&gt;
+&lt;li&gt; A seller has some measure of control of where their product will be sold, but realistically if you decide not to sell your product on Amazon you may be putting yourself at a strong competitive disadvantage, so you could argue that is not in the seller&amp;#39;s control. Having said that, you can elect to let Amazon fulfill and ship your orders, or you can maintain control of your product and delivery.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;EDIT #2&lt;/strong&gt; mods&lt;/p&gt;
+
+&lt;p&gt;I have a basic structure I like to use for reviews, but I&amp;#39;ll save it for another time.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK，你应该在你的房子或邮箱上贴上大号的街道地址标签，并确保从路上就能看到它，这样送货司机就能找到你。]]></title><description><![CDATA[为什么选择YSK: 我在一家大型的包裹递送公司工作，我不知道有多少人在这里工作。
+我不得不收回的包裹，因为它不清楚 如果你的房子是1906年或
+你的邻居是。转弯指示不应该在我的地方使用。
+的工作。只要把你的房号放大一点，在...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzof8r/ysk_that_you_should_label_your_house_or_mailbox/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzof8r/ysk_that_you_should_label_your_house_or_mailbox/</guid><pubDate>Mon, 08 Mar 2021 07:24:51 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: I work for a huge package delivery company and I cant tell you how many packages I have had to take back because its unclear if your house is 1906 or your neighbors is. Turn by turn directions are not supposed to be used where I work. Just put a larger version of your house number in the yard, on the house, or on the mailbox. I came out here, I want to give you your package!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK 当你接到电话说你的信用卡被使用了，他们想确认是你的时候，最好的办法是挂断电话，然后给你的银行打电话。]]></title><description><![CDATA[WhyYSK--即使打电话的人知道卡上的前8个数字。
+您的银行，以及您的姓氏，这可能是一个网络钓鱼骗局。
+
+合法的电话会鼓励您挂断电话，然后拨打后面的号码。
+的卡。釣魚電話鼓勵您不要掛斷電話，並保持聯繫。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyexts/ysk_when_you_get_a_call_saying_your_credit_card/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyexts/ysk_when_you_get_a_call_saying_your_credit_card/</guid><pubDate>Mon, 08 Mar 2021 06:34:24 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;WhyYSK - Even if the person on the phone knows the first 8 numbers on the card, your bank, and your last name, it’s probably a Phishing scam.  &lt;/p&gt;
+
+&lt;p&gt;Legitimate calls will encourage you to hang up and call the number on the back of your card.  Phishing calls encourage you NOT to hang up and to stay on the line. &lt;/p&gt;
+
+&lt;p&gt;The first 8 numbers on most cards are NOT unique. &lt;/p&gt;
+
+&lt;p&gt;Often they might know your last name but not your first.  DO NOT give them any information. Hang up and call your bank directly if you think it’s possible your card was used but very likely it wasn’t.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：即使你没有经验，也有人想给机会。说说你做了什么可以相关的事情，在你看来，并要求给机会。]]></title><description><![CDATA[为什么是YSK：外面有很多人愿意给一个机会。
+因为他们觉得自己有机会。然而，他们期望那些
+在他们面前要有意识，要有要求。
+
+我的第一个经理给了我一个机会，在经过1h的面试后，在一
+不同国家....]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lz5dws/ysk_there_are_people_out_there_looking_to_give_a/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lz5dws/ysk_there_are_people_out_there_looking_to_give_a/</guid><pubDate>Mon, 08 Mar 2021 01:57:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: There are many people out there who are willing to give a chance, because they feel like they were given a chance. However, they expect the ones in front of them to be aware of it, and ask for it.&lt;/p&gt;
+
+&lt;p&gt;I have been given a chance by my first manager, after a 1h interview, in a different country. I paid it forward to people I&amp;#39;ve interviewed. All worked out, needless to say.&lt;/p&gt;
+
+&lt;p&gt;When I interviewed for my current position, I knew I wanted it, without direct experience on it, but from what I&amp;#39;ve learned. I talked about whatever I did that could be relevant for the position, and I&amp;#39;ve asked for a chance. I got it.&lt;/p&gt;
+
+&lt;p&gt;Know what you want, and be willing to work for it. If you can explain it, it will work.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK不要在飞机上给救生衣充气，直到你离开飞机之后。]]></title><description><![CDATA[为什么 YSK: 充气式救生衣比非充气式救生衣占用更多空间。
+外套，使其更难通过紧急出口，并导致
+拥堵时，试图逃跑。同时，你也有溺水的危险，因为生命中的
+外套飘到机舱顶部。一个教科书式的例子...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzizu9/ysk_not_to_inflate_a_life_jacket_in_a_plane_until/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzizu9/ysk_not_to_inflate_a_life_jacket_in_a_plane_until/</guid><pubDate>Sun, 07 Mar 2021 13:37:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: An inflated life jacket takes up more space than a non-inflated life jacket, making it harder to fit through the emergency exits and leading to congestion when trying to escape. Also you run the risk of drowning as the life jacket floats to the top of the cabin. A textbook example of this is &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961#Fate_of_the_passengers_and_crew&quot;&gt;Ethiopian Flight 961&lt;/a&gt;, where many of the passengers who survived the initial crash drowned because they inflated their life jackets while they were still in the aircraft, causing them to be pushed against the ceiling of fuselage.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：一定要每隔一段时间就适当清理一下吸尘器。]]></title><description><![CDATA[为什么YSK：有些人似乎对这一点仍然视而不见，只是把它扔出去，然后。
+买一个新的，当你需要做的是偶尔清理出来。是的，这是一个
+痛苦。但比浪费钱要好很多。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzgp93/ysk_make_sure_to_properly_clean_out_your_vacuum/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzgp93/ysk_make_sure_to_properly_clean_out_your_vacuum/</guid><pubDate>Sun, 07 Mar 2021 13:37:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Some people seem to remain oblivious to this and just throw it out and buy a new one when all you need to do is clean it out occasionally. Yes, it&amp;#39;s a pain. But a lot better than wasting money.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：在亚马逊购买产品时，有一些网站可以评估真假评论。使用ReviewMeta.com这样的网站来评估产品评论是假的还是真的。]]></title><description><![CDATA[为什么选择YSK：我曾多次购买劣质产品，主要是根据评价来决定的。
+独自一人，直到我醒悟过来。网络素养（辨别真假的能力）。
+和假话、小道消息和重要信息[我留待下一篇文章再谈])
+将会在人类几十年的时间里扮演着至关重要的角色... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzitlj/ysk_there_are_websites_that_can_assess_true_and/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lzitlj/ysk_there_are_websites_that_can_assess_true_and/</guid><pubDate>Sun, 07 Mar 2021 13:37:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: I have purchase inferior products many times based mainly on rating alone until I wised up. Internet literacy (the ability to discern between truth and falsehood, gossip and vital information [I&amp;#39;ll leave this for another post]) is going to play a critical part in humanity for decades to come.&lt;/p&gt;
+
+&lt;p&gt;One aspect of this is to determine if you are getting ripped off, or purchasing a legitimate quality product. I don&amp;#39;t work for &lt;a href=&quot;https://reviewmeta.com&quot;&gt;reviewmeta.com&lt;/a&gt;. I heard them mentioned on NPR and I imagine there are other websites you can use. But I use it every time I buy something from Amazon in order to know if of the 1,000 reviews a product has, 30% are fake. &lt;/p&gt;
+
+&lt;p&gt;Unscrupulous sellers hire people to create accounts and post reviews of their product, often giving people some basic text to use. The website I mentioned analyzes reviews to see how many use similar language, or how many are unique. This site filters out the questionable reviews.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 如果您正在努力奋斗，并且您的家庭规模低于贫困线的200%，pcsforpeople.org以合理的价格出售电脑解决方案。]]></title><description><![CDATA[为什么是YSK：电脑一般都很贵，而且随着经济问题的出现，电脑的价格也越来越高。
+挑战国家现在。有机会接触到一台坚实的电脑，为学校
+/ 工作的目的可能是具有挑战性的。最近很多学校都上线了，而且
+生活在服务不足社区的人们努力提供......。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lydb30/ysk_if_you_are_struggling_and_below_200_of_the/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lydb30/ysk_if_you_are_struggling_and_below_200_of_the/</guid><pubDate>Sat, 06 Mar 2021 16:47:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: Computers are typically expensive, and with the economic issues challenging the country right now. Having access to a solid computer for school / work purposes can be challenging. A lot of schools went online recently, and people living in underserved communities struggled to provide adequate technology for their child to access their coursework. In addition, having access to a computer would allow those unemployed as a result of the recent global issues to seek employment opportunities from home.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pcsforpeople.org/&quot;&gt;pcsforpeople.org&lt;/a&gt; has been around since 1998. They offer computer solutions (tower, monitor, keyboard, mouse, etc.) from $0 - $160. You have to provide income verification to prove you are struggling.&lt;/p&gt;
+
+&lt;p&gt;[EDIT] They also offer affordable internet access for those that need it. It&amp;#39;s $180 a year for high speed internet with no data cap. &lt;/p&gt;
+
+&lt;p&gt;[EDIT 2] Given the amount of people that have asked this question, yes, it is for America only. &lt;/p&gt;
+
+&lt;p&gt;I know what I typed probably reads incoherently. I just wanted to share this with people who may be struggling and also need a computer.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：治疗师在向客户收费时，通常会提供一个滑动表，并会根据你的收入调整费用。]]></title><description><![CDATA[为什么YSK。
+
+Therapy seems like a luxury because the rates for people without insurance are.
+疯狂的高，但很多治疗师认识到这一点，并将为您提供一个沉重的。
+折扣率，如果你跟他们谈论它。
+
+我知道，随着世界上发生的一切，更多的人是
+意识到...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyps6n/ysk_therapists_will_often_offer_a_sliding_scale/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyps6n/ysk_therapists_will_often_offer_a_sliding_scale/</guid><pubDate>Sat, 06 Mar 2021 11:44:55 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: &lt;/p&gt;
+
+&lt;p&gt;Therapy seems like a luxury because the rates for people without insurance are crazy high, but a lot of therapists recognize this and will offer you a heavily discounted rate if you talk to them about it. &lt;/p&gt;
+
+&lt;p&gt;I know with everything that’s happening in the world a lot more people are realizing they need extra support, and it can be daunting to explore therapy for the first time as an option. &lt;/p&gt;
+
+&lt;p&gt;And I also know even discounted for a lot of people it can still be inaccessible. There are also free therapists and therapy programs online that you can contact—if you need someone to talk to, this is still a great option.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK在剪指甲之前先把指甲弄湿/浸泡，可以防止指甲屑到处飞。]]></title><description><![CDATA[为什么是YSK 只是一个有用的提示，以避免你踩到那些流氓剪子。]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lxo6gv/ysk_wettingsoaking_your_nails_before_clipping/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lxo6gv/ysk_wettingsoaking_your_nails_before_clipping/</guid><pubDate>Sat, 06 Mar 2021 06:38:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK 
+Just a helpful tip for avoiding those rogue clippings you step on.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK：如果你曾经在工作中需要摘下口罩，请将口罩放在前面的口袋里。]]></title><description><![CDATA[为什么选择YSK: 我的工作是工程，偶尔会有一个自己的房间来运行。
+一台电镀机。在这里，我可以自由地摘下面具，把它放在我的。
+像我平时一样背着口袋。我前一天晚上吃了辣椒，省略了。
+更高频率的致命气体，甚至没有意识到我的... ...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lxkait/ysk_if_you_are_ever_at_work_and_need_to_take_your/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lxkait/ysk_if_you_are_ever_at_work_and_need_to_take_your/</guid><pubDate>Sat, 06 Mar 2021 06:38:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: I work an engineering job and occasionally get a room to myself to run a plating machine. Here I can freely work with my mask off and place it in my back pocket like I normally do. I had chipotle the night before and was omitting a higher frequency of deadly gas without even realizing my mask was still there. Once I finished my job I had about 6 hours of work left where my mask was required. Needless to say the smell did NOT leave my mask and I suffered quite a bit that day. This may seem silly but if I can save ONE person from suffering this tragedy, I am happy.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 如果你决定玩大富翁，请玩《指环王》版本的棋盘游戏。]]></title><description><![CDATA[为什么是YSK：这个版本其实是有结局的! 游戏中包括一个额外的棋子
+你放在棋盘上的 "一环"。在其中一个骰子上，1被替换为
+与索伦的眼睛。每当玩家掷出这个特殊的骰子
+眼朝上，环向前移动一个空间。如果环使其方式...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyjps9/ysk_if_you_ever_decide_to_play_monopoly_play_the/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lyjps9/ysk_if_you_ever_decide_to_play_monopoly_play_the/</guid><pubDate>Sat, 06 Mar 2021 06:38:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: This version actually has an ending! The game includes an extra piece that you place on the board, the One Ring. On one of the die the 1 is replaced with the eye of Sauron. Every time a player rolls this particular die eye-side-up, the ring moves forward one space. If the ring makes its way around the board and lands on Mount Doom (Boardwalk) the game ends and whoever has the most money/property value is declared the winner.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK 如果您的调整后总收入低于39K，并且在RobinHood上卖出过股票，您可以通过国税局网站在TurboTax上申报，无需支付70美元的TurboTax Premier。]]></title><description><![CDATA[为什么YSK：我去年在股票上赚了40元，当我想插入我的1099 B的时候，我的1099 B的价格是多少？
+表格上写着我必须使用Premier并支付70美元。由于我的收入不到3.9万，我是
+有资格使用TurboTax IRS免费文件计划。
+
+https://apps.irs.gov/app/freeFile/browse-all-offers]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lutbcr/ysk_if_you_have_an_adjusted_gross_income_under/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/lutbcr/ysk_if_you_have_an_adjusted_gross_income_under/</guid><pubDate>Fri, 05 Mar 2021 23:37:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: I made $40 on stocks last year, and when I tried to insert my 1099 B form it said I had to use Premier and pay $70. Since I made less than 39k, I was eligible to use the TurboTax IRS Free File Program.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.irs.gov/app/freeFile/browse-all-offers&quot;&gt;https://apps.irs.gov/app/freeFile/browse-all-offers&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: 在视频标题中打出 "我不拥有这首音乐的版权 "根本不代表什么。]]></title><description><![CDATA[为什么选择YSK：在美国，同步授权（允许你使用歌曲的授权）是指你可以使用你的歌曲。
+随着视频）不是强制性的。这意味着著作权人不
+在法律上，他们需要给你一个许可证，就像他们会，例如，如果，你。
+现场翻唱了这首歌曲，或者在...]]></description><link>https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/ltpl7d/ysk_typing_i_dont_own_the_rights_to_this_music_in/</link><guid isPermaLink="false">https://know.buzzing.cc/reddit/r/YouShouldKnow/comments/ltpl7d/ysk_typing_i_dont_own_the_rights_to_this_music_in/</guid><pubDate>Fri, 05 Mar 2021 23:37:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why YSK: In the USA, a sync license (a license that allows you to use a song along with a video) is not compulsory. That means the copyright holder is not legally required to give you a license like they would be if, for example, you performed a cover of the song live, or played the song in a restaurant over the speakers. (Those licenses have set legal rates, usually paid in a lump sum by the venue.)&lt;/p&gt;
+
+&lt;p&gt;There is also no minimum time that it is legal to use a part of a song (or a sample for that matter) in a video, there&amp;#39;s no &amp;quot;3-second rule&amp;quot;. If any part of the song&amp;#39;s master recording appears in a video (or DJ mix), for any amount of time. Even if it&amp;#39;s a literal second, the copyright owner has grounds to get it taken down and to pressure further legal action if it remains up.&lt;/p&gt;
+
+&lt;p&gt;That being said, platforms like Youtube, Reddit, Facebook, and Instagram have a legal advantage here. The way the US Copyright act works, websites like Youtube that knowingly host tons and tons of unauthorized copyrighted music set to videos are not required by law to search it out in any way. The burden to report rests solely with the copyright holder (song owner). They must submit the specific URL for each individual offending video each time they discover it being used.&lt;/p&gt;
+
+&lt;p&gt;That means, Sony can&amp;#39;t go to YouTube and say &amp;quot;we know Thriller by Michael Jackson is being used on your site, here&amp;#39;s what it sounds like, you must take it down every time it shows up.&amp;quot; It means that they have to search through the website every day and submit forms that say &amp;quot;we know Thriller is used illegally in this specific video that can be found at this link, please take it down&amp;quot;. It makes the process very slow and ineffective. Youtube loves this. They are one of the largest hosts of music in the world, and if they had to regulate their own content for copyright compliance stop almost overnight.&lt;/p&gt;
+
+&lt;p&gt;Now keep in mind, these issues don&amp;#39;t only affect Michael Jackson and Taylor Swift, they also affect your neighbor who rights and records songs in her basement, perhaps even more so. Swifty can afford to lose the revenue that would come in from properly licensing these videos, but your neighbor probably can&amp;#39;t. There are a lot more of Your Neighbor types out there in music than Taylor Swift&amp;#39;s.&lt;/p&gt;
+
+&lt;p&gt;There is a trend towards compliance here, Tik Tok and Instagram both allow you to use some songs with videos hosted on their platforms. They have agreements worked out with publishing companies to pay set fees based on song usage on their platforms. Otherwise, Tik Tok especially wouldn&amp;#39;t exist the way it does today. But, people are actually making semi-decent money if their song goes viral on Tik Tok, which is nice.&lt;/p&gt;
+
+&lt;p&gt;This kinda got explain-ey but, using a song in a video and posting &amp;quot;I don&amp;#39;t own the rights to this&amp;quot; under it is just a statement of fact. It doesn&amp;#39;t protect you or your video in any way whatsoever, so save your caption space. &lt;/p&gt;
+
+&lt;p&gt;TL;DR: There is no compulsory way to license a song placed in a video. ANY part of ANY song that is used in a video online is likely a copyright infringement. But, the burden to find offending content rests with the copyright holder, which slows things up. The worst likely outcome is the video getting taken down, but saying &amp;quot;I don&amp;#39;t own the rights to this&amp;quot; won&amp;#39;t protect you at all because it&amp;#39;s still an infringement.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
