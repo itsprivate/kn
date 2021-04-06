@@ -70,6 +70,16 @@ const siteMetadata = {
         // },
       ],
     },
+    {
+      locale: "ja",
+      title: "知っておくべきこと",
+      shortTitle: "知っておくべきこと",
+      description: "人気の知っておくべきことを日本語で閲覧",
+      keywords: ["buzzing", "知っておくべきこと",],
+      menuLinks: [
+   
+      ],
+    }
   ],
 };
 
