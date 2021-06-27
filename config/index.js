@@ -8,7 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "常识", "你应该知道", "You Should Know"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
-  iconUrl: "https://news.buzzing.cc/avatar.png",
+  iconUrl: "https://know.buzzing.cc/avatar.png",
   menuLinks: [
     // {
     //   name: "每周精选",
